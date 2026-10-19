@@ -90,7 +90,7 @@ return (
             src={recipe.strMealThumb} 
             alt={recipe.strMeal} 
             className="img-fluid rounded" 
-            style={{ maxHeight: '400px', width: '100%', objectFit: 'cover' }}
+            style={{  width: '100%', objectFit: 'cover' }}
           />
         </div>
         <div className="mb-4">
